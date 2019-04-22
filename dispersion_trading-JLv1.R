@@ -73,3 +73,10 @@ library(fOptions)
 library(QRM)
 library(ragtop)
 
+
+
+options<-getOptionChain("^DJX")
+options
+
+
+
